@@ -108,6 +108,13 @@ Applied fastest profile 'cloudflare'
 ```
 
 ### 4. completion (Generate shell autocompletion scripts)
+
+> [!IMPORTANT]
+> - "Note: The completion feature is currently under development and not yet functional."
+> - "⚠️ Completion support is a work in progress. This command is included for future use but does not work yet."
+
+
+
 Generate autocompletion scripts for Bash, Zsh, Fish, or PowerShell.
 This improves usability by enabling tab-completion for commands and flags.
 Usage:
